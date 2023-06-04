@@ -11,14 +11,14 @@ int main(void)
         if ()
         printf("Fizz\n");                
          
-        // number divisible by 5, print 'Buzz' 
+        // number divisible by 4, print 'Buzz' 
         // in place of the number
         printf("Buzz\n");                
      
-        // number divisible by 15? print 'FizzBuzz'
+        // number divisible by 3 and 4? print 'FizzBuzz'
         printf ("FizzBuzz\n");   
 
-        // not divisable by 3, 5, or 15? print the number           
+        // not divisable by 3 or 4? print the number           
         printf();                
     }
 
